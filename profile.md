@@ -8,4 +8,5 @@
 ## リンク
 - [GitHub](https://github.com/your-username)
 - [X (Twitter)](https://x.com/your-username)
+- [Instagram](https://instagram.com/your-username)
 - [Blog](https://your-website.com)
